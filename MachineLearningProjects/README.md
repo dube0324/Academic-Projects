@@ -1,6 +1,6 @@
 # Machine Learning Projects
 
-- [Linear Regression](/LinearRegression.ipynb): In this notebook, we train a Linear Regression model on the California Housing dataset.
+- [Linear Regression](LinearRegression.ipynb): In this notebook, we train a Linear Regression model on the California Housing dataset.
 - [Logistic Regression](/LogisticRegression.ipynb): In this notebook, we train a Logistic Regression model on the Iris dataset.
 - [Lasso & Ridge Regression](/RidgeLassoRegression.ipynb): In this notebook, we train two models - Lasso & Ridge Regression on the House Price dataset.
 - [Polynomial Regression](/PolynomialRegression.ipynb): In this notebook, we train a Polynomial Regression model on the Fuel Emissions dataset.
